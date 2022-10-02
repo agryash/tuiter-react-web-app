@@ -382,8 +382,68 @@ p#id-selector-2 {
    border-color: black;
    border-style: solid;
    display: flex;
-   /*justify-content: space-evenly;*/
-   /*align-items: center;*/
+}
+
+.flex-container1 {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+}
+.flex-container3 {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+}
+.flex-container4 {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: end;
+}
+.flex-container2 {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: space-around;
+}
+.flex-container6 {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+}
+.flex-container5 {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.flex-container8 {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.flex-container7 {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    /*justify-content: space-evenly;*/
+    /*align-items: center;*/
+}
+.flex-container8 > .flex-box {
+    flex-basis: 100%;
 }
 
 .flex-container > .flex-box {
