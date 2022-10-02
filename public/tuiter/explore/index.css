@@ -1,0 +1,180 @@
+body{
+    background: black;
+}
+
+.fa-certificate {
+    color: white;
+}
+
+.wd-sbar {
+    border-radius: 30px;
+    height: 100%;
+    padding : 10px 40px;
+    position: relative;
+    width: 75%;
+    border: none;
+    background-color: rgb(110, 118, 125, 0.3);
+    font-weight: 600;
+}
+
+.wd-ip-wrap {
+    position : relative;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+
+
+.wd-nav-wrapper {
+    border-bottom: 3px solid rgb(110, 118, 125, 0.6);
+}
+.wd-navigation-pane {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 20px;
+}
+.wd-navigation-pane > a {
+    text-decoration: none;
+    color: rgb(110, 118, 125);
+    font-size: 15px;
+    padding: 16px;
+    font-weight: 700;
+    
+}
+
+.wd-navigation-pane > a.active {
+    color: rgb(29, 161, 242);
+    border-bottom: 3px solid rgb(29, 161, 242);
+    border-radius: 2px;
+}
+
+.wd-s-post {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.wd-s-post .wd-sugg-blockpost {
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.wd-sugg-blockpost img {
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    float: right;
+}
+
+.wd-sugg-blockpost.wd-sugg-blockpost.wd-post3 .wd-profile-image {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+
+.wd-image-container img {
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.wd-sugg-blockpost .wd-text-container {
+    display: inline-block;
+}
+
+.wd-post3 .wd-profile-image-container {
+    display: inline-block;
+}
+
+.wd-post3 .wd-post-topic {
+    display: flex;
+    align-items: center;
+    margin: 0px 0px 10px 0px;
+}
+
+.wd-ip-wrap #search-icon {
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    color: rgb(110, 118, 125);
+    background-color: transparent;
+}
+
+.wd-ip-wrap #settings-icon {
+    margin-right: 12px;
+    color: rgb(29, 161, 242);
+}
+
+.wd-post3 .wd-author-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 5px;
+}
+
+.wd-post3 .wd-author {
+    margin: 0px;
+    color: white;
+    margin-right: 5px;
+}
+
+.wd-post3 .wd-timestamp {
+    margin: 0px;
+    color: rgb(110, 118, 125);
+}
+
+.wd-post-topic > h5 {
+    font-weight: 600;
+    color: rgb(110, 118, 125);
+    margin: 0px 0px 10px 0px;
+    font-size: 13px;
+}
+
+.wd-post-title > h3{
+    margin: 0px 0px 10px 0px;
+}
+
+.wd-post-number-tuits > h5 {
+    font-weight: 600;
+    color: rgb(110, 118, 125);
+    margin: 0px 0px 10px 0px;
+}
+
+.wd-three-dots {
+    float: right;
+    color: white;
+}
+
+.wd-icon-stack {
+    position: relative;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    vertical-align: middle;
+}
+.wd-icon-stack-1x,
+.wd-icon-stack-2x,
+.icon-stack-3x {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.wd-icon-stack-1x {
+    line-height: inherit;
+}
+.wd-icon-stack-2x {
+    font-size: 1.5em;
+}
+.wd-icon-stack-3x {
+    font-size: 2em;
+}
+.wd-post-title h3{
+    color: white;
+}
+

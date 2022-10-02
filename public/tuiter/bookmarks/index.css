@@ -1,0 +1,158 @@
+body{
+    background: black;
+}
+
+h3 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+p {
+    color: white;
+}
+
+.wd-bookmark-avatar {
+    margin-right: 12px;
+    margin-top: 10px;
+}
+
+.wd-bookmark-avatar img {
+border-radius: 50%;
+height: 48px;
+}
+
+.wd-start-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wd-body {
+    padding: 0px 20px;
+}
+
+h3, h5, p {
+    margin: 0px 0px 10px 0px;
+}
+
+.wd-page-header {
+    border: 1px lightgray;
+}
+
+.wd-title {
+    font-size: 20px;
+    margin-top: 12px;
+}
+
+.wd-username {
+    font-size: 13px;
+    color: lightgray;
+    font-weight: 400
+}
+.wd-bookmarks {
+    display: flex;
+    flex-direction: column;
+}
+
+.wd-bookmark {
+    display: flex;
+    align-items: flex-start;
+    border: 1px solid gray;
+    padding: 1.5em
+}
+
+.wd-bookmark-headerText > h3 {
+    font-size: 15px;
+}
+
+.wd-userhandle, .wd-date {
+    color: lightgray;
+    font-weight: 400;
+}
+
+.wd-bookmark-descheader {
+    margin: 0px;
+    margin-bottom: 12px;
+    font-size: 15px;
+}
+
+.wd-bookmark-descheader > p {
+    font-weight: 400;
+}
+.wd-bookmark-title {
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.wd-bookmark-content {
+    color: gray;
+    font-weight: 400;
+    margin-bottom: 1px;
+}
+
+.wd-bookmark-body {
+max-width: 506px;
+}
+
+.wd-bookmark-feed {
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    overflow: hidden;
+}
+
+.wd-bookmark-feed img {
+width: 504px;
+max-height: 264px;
+}
+
+.wd-bookmark-feed .wd-bookmark-text {
+padding: 12px
+}
+
+.wd-bookmark-footer {
+display: flex;
+justify-content: space-between;
+padding: 20px;
+}
+
+.wd-bookmark-headerSpecial {
+font-weight: 600;
+font-size: 12px;
+color: gray;
+}
+
+.wd-bookmark-headerText h3 {
+font-size: 15px;
+margin-bottom: 5px;
+}
+
+.wd-bookmark-body {
+flex: 1;
+padding: 10px 0px;
+}
+
+.wd-bookmark-footer > i {
+    color: lightgray;
+}
+
+i.wd-liked {
+    color: red;
+}
+
+.wd-count {
+    font-weight: 400;
+    margin-left: 12px;
+    color: lightgray;
+}
+
+.wd-liked {
+    color: red;
+}
+
+.wd-three-dots {
+    float: right;
+    color: white;
+}
