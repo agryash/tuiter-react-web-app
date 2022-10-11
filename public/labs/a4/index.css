@@ -1,0 +1,9 @@
+.btn-primary .override-bs {
+    border-color: #fd0d51;
+    background-color: #a90dfd;
+    border-style: dashed;
+    border-width: 10px;
+    border-radius: 20px;
+    font-size: 2em;
+    font-weight: bolder;
+}
