@@ -19,7 +19,5 @@ export default [
         description: 'Est nostrum voluptatem et excepturi eius vel quos autem sed maxime est eius iure et impedit quae. Aut tempore corrupti qui voluptatem atque sit quidem eius ut amet eius. Id omnis dolorem non quas debitis et internos illum. Ut quod voluptas eos sint natus qui molestias pariatur est velit vero qui architecto natus nam consequatur placeat.',
         image: 'ipsum.jpeg'
     },
-    
-
 ];
  

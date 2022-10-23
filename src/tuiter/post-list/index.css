@@ -1,0 +1,15 @@
+.list-group .list-group-item a {
+    text-decoration: none;
+    color: black
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+}
+
+i {
+    color: black;
+}
