@@ -22,7 +22,7 @@ const PostSummaryItem = (
                 </div>
 
                 <div className="col-3">
-                    <img src={post.image} className="rounded wd-image"/>
+                    <img alt="" src={post.image} className="rounded wd-image"/>
                 </div>
             </div>
         </li>
