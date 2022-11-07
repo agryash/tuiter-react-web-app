@@ -1,0 +1,10 @@
+.inline{
+    display: flex;
+    gap: 10px;
+}
+
+.inline i{
+    width:auto;
+}
+
+ 

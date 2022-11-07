@@ -8,7 +8,7 @@ const PostSummaryItem = (
         <li class="list-group-item">
             <div class="row wd-suggested-post wd-post-type3">
                 <h6><small className = "text-muted">{post.topic}</small></h6>
-                <div class="col-9 wd-text-container">
+                <div className="col-9 wd-text-container">
                     <span>
                         <h6 className="d-inline">{post.userName}</h6>
                         <span className="m-1 fa-stack"  style={{fontSize:"8px"}}>

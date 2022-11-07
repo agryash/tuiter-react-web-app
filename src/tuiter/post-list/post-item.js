@@ -11,7 +11,7 @@ const PostItem = ({post}) => {
                 
                 <div className="col">
                     <span>
-                        <h7>{post.userName}</h7>
+                        <h6>{post.userName}</h6>
                         
                         <span className="m-1 fa-stack" style={{fontSize: "8px"}}>
                             <i className="fas fa-certificate fa-stack-2x"></i>
@@ -33,7 +33,7 @@ const PostItem = ({post}) => {
                     </div>
                     <div className="m-3 wd-bookmark-footer d-flex justify-content-between">
                         <a href="/#" className="wd-bookmark-comment">
-                        <i className="fa fa-comment-o" aria-hidden="true"><span className="m-2 wd-count">45</span></i>
+                        <i className="fa fa-comment" aria-hidden="true"><span className="m-2 wd-count">45</span></i>
                         </a>
                         <a href="/#" className="wd-bookmark-retweet">
                         <i className="fa fa-retweet" aria-hidden="true"><span className="m-2 wd-count">45</span></i>

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": 123,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "time": "2h",
+    "title": "SpaceX's Starlink users say their dishes have had lucky escapes with bears, bobcats, and floods",
+    "image": "../../../assets/spacexlogo.jpeg",
+    "liked": false,
+    "replies": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "handle": "@spacex",
+    "tuit": "When signing up for SpaceX's internet service, users receive a kit which comprises of a WiFi router, a tripod, and a dish which connects to the satellites in orbit."
+  },
+  {
+    "_id": 234,
+    "topic": "Tesla",
+    "userName": "Tesla",
+    "time": "4d",
+    "image": "../../../assets/tesla.svg",
+    "title": "Tesla",
+    "liked": true,
+    "replies": 234,
+    "retuits": 543,
+    "likes": 3456,
+    "handle": "@tesla",
+    "tuit": "Autopilot is an advanced driver assistance system that assists your car with steering, accelerating and braking for other vehicles and pedestrians within its lane. It assists with the most burdensome parts of driving adn work alongside features like emergency braking, collision warning and"
+  }
+]

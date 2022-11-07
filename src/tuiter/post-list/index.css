@@ -10,6 +10,7 @@ img {
     max-height: 300px;
 }
 
-i {
-    color: black;
+i{
+    width: 50%;
+    height: 50%;
 }
