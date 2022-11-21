@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 123,
+    "userName": "Akamai",
+    "handle": "akamai",
+    "avatarIcon": "../../../assets/akamai.webp"
+  },
+  {
+    "_id": 234,
+    "userName": "HiLabs",
+    "handle": "hilabs",
+    "avatarIcon": "../../../assets/hilabs.jpeg"
+  },
+  {
+    "_id": 345,
+    "userName": "Bill Gates",
+    "handle": "gates",
+    "avatarIcon": "../../../assets/bill.jpg"
+  },
+  {
+    "_id": 456,
+    "userName": "Northeastern University",
+    "handle": "neu",
+    "avatarIcon": "../../../assets/neu.jpg"
+  }
+]

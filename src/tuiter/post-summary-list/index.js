@@ -1,0 +1,20 @@
+import React from "react";
+import PostSummaryItem from "./post-summary-item";
+import "./index.css";
+import {useSelector} from "react-redux";
+
+const PostSummaryList = () => {
+ const postsArray = useSelector(state => state.tuitsData.tuits)
+ return(
+   <ul className="list-group">
+     {
+       postsArray.map(post =>
+         <PostSummaryItem
+           key={post._id} post={post}/> )
+     }
+   </ul>
+ );
+};
+
+export default PostSummaryList;
+

@@ -1,0 +1,58 @@
+[
+  {
+    "_id": 123,
+    "topic": "Global Warming",
+    "userName": "earth",
+    "handle": "earth",
+    "title": "Incorrect Garbage Disposal the primary reason for icecaps melting",
+    "time": "12h",
+    "image": "../../../assets/garbage.jpg",
+    "liked": true,
+    "replies": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "tuit": "Incorrect Garbage Disposal the primary reason for icecaps melting"
+  },
+  {
+    "_id": 234,
+    "topic": "World",
+    "userName": "paris",
+    "handle": "paris",
+    "title": "Climate Summit in Paris",
+    "time": "22h",
+    "image": "../../../assets/paris.jpg",
+    "liked": true,
+    "replies": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "tuit": "Climate Summit in Paris"
+  },
+  {
+    "_id": 345,
+    "topic": "Business",
+    "userName": "bloomberg",
+    "handle": "bloomberg",
+    "title": "Bloomberg remains the only financial institution to announce recession",
+    "time": "2d",
+    "image": "../../../assets/bloomberg.jpeg",
+    "liked": true,
+    "replies": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "tuit": "Bloomberg remains the only financial institution to announce recession"
+  },
+  {
+    "_id": 456,
+    "topic": "News",
+    "userName": "The New York Times",
+    "handle": "nytimes",
+    "title": "CNN's Cuomo conundrum: A star anchor with a brother in trouble",
+    "time": "1m",
+    "image": "../../../assets/mass.jpeg",
+    "liked": true,
+    "replies": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "tuit": "CNN's Cuomo conundrum: A star anchor with a brother in trouble"
+  }
+]

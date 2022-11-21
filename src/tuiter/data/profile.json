@@ -1,0 +1,15 @@
+{
+  "firstName": "Yash",
+  "lastName": "Agrawal",
+  "handle": "@yash",
+  "profilePicture": "../../assets/profile.jpg",
+  "bannerPicture": "../../assets/banner.jpg",
+  "bio": "Code. Coffee. Repeat",
+  "website": "agryash.me",
+  "location": "Boston, MA",
+  "dateOfBirth": "1998-12-25",
+  "dateJoined": "12/2019",
+  "followingCount": 30,
+  "followersCount": 23,
+  "tweets": 841
+}
